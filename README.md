@@ -1,18 +1,15 @@
-
-
-<!--
-**vinnavannewton/vinnavannewton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 My GitHub Contributions
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+## 🚀 Projects I Created
+
+### [Project Monitorize](https://github.com/vinnavannewton/project-monitorize)
+
+A Linux + Android project focused on monitor streaming, second-screen usage, input support, and low-latency desktop interaction.
+
+## 🤝 Projects I Contributed To
+
+### [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+
+Contributed to the open-source Android music player project.
