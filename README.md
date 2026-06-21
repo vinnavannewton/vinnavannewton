@@ -1,14 +1,14 @@
-## 🌱 My GitHub Contributions
+## 🌱 GitHub Contributions
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-## 🚀 Projects I Created
+## 🚀 Projects Created
 
 ### [Project Monitorize](https://github.com/vinnavannewton/project-monitorize)
 
 A Linux + Android project focused on monitor streaming, second-screen usage, input support, and low-latency desktop interaction.
 
-## 🤝 Projects I Contributed To
+## 🤝 Projects Contributed To
 
 ### [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 
