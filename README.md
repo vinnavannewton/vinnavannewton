@@ -6,7 +6,7 @@
 
 ### [Project Monitorize](https://github.com/vinnavannewton/project-monitorize)
 
-A Linux + Android project focused on monitor streaming, second-screen usage, input support, and low-latency desktop interaction.
+A .
 
 ## 🤝 Projects Contributed To
 
@@ -16,5 +16,5 @@ A Linux + Android project focused on monitor streaming, second-screen usage, inp
 
 ## [plasmavantage](https://gitlab.com/Scias/plasmavantage)
 
-A kde widget to access lenovo legion laptop's features.
+A kde widget which is an alternative to lenovo vantage software.
 
