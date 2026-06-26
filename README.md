@@ -12,4 +12,9 @@ A Linux + Android project focused on monitor streaming, second-screen usage, inp
 
 ### [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 
-Contributed to the open-source Android music player project.
+ A famous open-source Android music player.
+
+## [plasmavantage](https://gitlab.com/Scias/plasmavantage)
+
+A kde widget to access lenovo legion laptop's features.
+
