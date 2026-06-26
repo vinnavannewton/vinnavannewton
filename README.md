@@ -6,7 +6,7 @@
 
 ### [Project Monitorize](https://github.com/vinnavannewton/project-monitorize)
 
-A .
+Monitorize is an app that lets you use another device, like a tablet, phone, laptop, or another PC, as an extra monitor for your linux desktop.
 
 ## 🤝 Projects Contributed To
 
