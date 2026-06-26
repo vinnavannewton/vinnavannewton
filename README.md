@@ -14,7 +14,7 @@ Monitorize is an app that lets you use another device, like a tablet, phone, lap
 
  A famous open-source Android music player.
 
-## [plasmavantage](https://gitlab.com/Scias/plasmavantage)
+### [plasmavantage](https://gitlab.com/Scias/plasmavantage)
 
 A kde widget which is an alternative to lenovo vantage software.
 
