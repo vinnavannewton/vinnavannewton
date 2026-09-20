@@ -4,9 +4,17 @@
 
 ## 🚀 Projects Created
 
-### [Project Monitorize](https://github.com/vinnavannewton/project-monitorize)
+### [project-monitorize](https://github.com/vinnavannewton/project-monitorize)
 
 Monitorize is a linux software that lets you use any device as an extended display.
+
+### [monitorize-sunshine](https://github.com/vinnavannewton/monitorize-sunshine)
+
+Monitorize’s customized Sunshine fork, providing the embedded streaming backend and Linux virtual-display integration.
+
+### [monitorize-vkms](https://github.com/vinnavannewton/monitorize-vkms)
+
+Optional VKMS kernel module for Monitorize, carrying required upstream-in-development VKMS functionality until it reaches mainstream Linux kernels.
 
 ## 🤝 Projects Contributed To
 
